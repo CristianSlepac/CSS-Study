@@ -3,6 +3,15 @@ section {
     margin-bottom: 5px;
     background-color: rgb(240, 213, 165);
 }
-#simpleclass{
-    color:brown
+#list{
+    color:red;
+}
+.orderedlist{
+    color:blueviolet;
+    font-size: larger;
+}
+#size_of_this{
+    height: 150px;
+    margin-bottom: 5px;
+    background-color: rgb(240, 213, 165);
 }
